@@ -225,7 +225,7 @@ function findLongestWord(string) {
       allWords.push(word);
     }
   }
-  return allWords;
+  return allWords;n
 }
 
 console.log(findLongestWord("and Google do a HElllO roll WOORLD"));
